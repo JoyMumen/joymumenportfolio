@@ -155,7 +155,7 @@ ul {
 
 /* Icon Menu */
 .icon-menu {
-  position: absolute;
+  position: fixed;
   right: 68px;
   top: 60px;
   width: 55px;
